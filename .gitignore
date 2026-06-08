@@ -1,0 +1,19 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+.env
+*.env
+venv/
+.venv/
+
+# SQLite DB (seed it fresh on deploy instead)
+backend/portfolio.db
+
+# Frontend
+frontend/node_modules/
+frontend/dist/
+
+# OS
+.DS_Store
+Thumbs.db
